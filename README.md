@@ -14,7 +14,8 @@ For your final project, we'll be building a Command Line database application.
 ## Instructions
 
 ### Set Up and Planning
-1. Fork and clone the module one final project. The person who forked the lab should share the link with their teammate(s) to clone, and add them as collaborators. As you work, be sure to create a flow of creating a branch, committing and pushing it up to master, merging, and having teammates pull down the new master.
+1. Fork and clone the module one final project. The person who forked the lab should share the link with their teammate(s) to clone, and add them as c
+2. ollaborators. As you work, be sure to create a flow of creating a branch, committing and pushing it up to master, merging, and having teammates pull down the new master.
 2. Before you start building, take a look at the files you have available in this repo.
     * In the main directory, you've got a gemfile that gives you access to activerecord, pry, rake, and sqlite3. Remember to bundle install!
     * In the bin directory, you've got a run.rb file that you can run from the command line with ```ruby bin/run.rb.```
